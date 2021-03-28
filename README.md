@@ -18,7 +18,7 @@ Paginas de Login
 Arquivos 
 Diretórios
 
-1. git clone https://github.com/wtechsec/Parabellum-Send-Fake-Mail.git
+1. git clone https://github.com/wtechsec/Parabellum-Dorks.git
 2. sudo perl Parabellum-Dorks.sh "site.com"
 
 

@@ -22,5 +22,7 @@ Diretórios
 2. sudo perl Parabellum-Dorks.sh "site.com"
 
 
-
+# By wtechsec
+# https://wtechsec.webnode.pt
+# https://www.instagram.com/wtechsec/
 

@@ -13,7 +13,7 @@ Este script foi criado para realizar uma enumeração de informações públicas
 3. sudo perl Hack3r_Dorks.sh "site.com"
 ![image](https://github.com/user-attachments/assets/8f399654-67db-4614-b9df-7feed9c998d2)
 
-4. Crie o arquivo proxies.txt e insira quantos proxi quiser para mascarar seu ip e evitar bloqueio, insira os proxies no formato ip:porta
+4. Crie o arquivo proxy.txt e insira quantos proxy quiser para mascarar seu ip e evitar bloqueio, insira os proxy no formato ip:porta
    EX:127.0.0.1:8000
 
 ## Detalhes de versão.
@@ -26,7 +26,7 @@ Este script foi criado para realizar uma enumeração de informações públicas
 2. Configuração de Domínio e Arquivos: Recebe o domínio como entrada, cria uma pasta e arquivo de saída para armazenar resultados.
 
 
-3. Uso de Proxies: Opção de usar proxies para mascarar o IP ao fazer requisições.
+3. Uso de Proxy: Opção de usar proxy para mascarar o IP ao fazer requisições.
 
 
 4. User-Agents Aleatórios: Alterna entre diferentes user-agents para evitar bloqueios.

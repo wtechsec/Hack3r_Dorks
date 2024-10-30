@@ -14,9 +14,9 @@ Este script foi criado para realizar uma enumeração de informações públicas
 ![image](https://github.com/user-attachments/assets/8f399654-67db-4614-b9df-7feed9c998d2)
 
 4. Crie o arquivo proxies.txt e insira quantos proxi quiser para mascarar seu ip e evitar bloqueio, insira os proxies no formato ip:porta
-   127.0.0.1:8000
+   EX:127.0.0.1:8000
 
-
+## 
 
 # By wtechsec
 # https://www.instagram.com/wtechsec

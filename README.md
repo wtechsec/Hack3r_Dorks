@@ -1,12 +1,4 @@
-# Hack3r_Dorks
-
-# By wtechsec - Escola Hack3r
-
-
-<img src="https://github.com/wtechsec/Parabellum-Dorks/blob/main/Dorks.png" width="800px" height="auto">
-
-
-> *Para fins educacionais e profissional (Pentest)* 
+![image](https://github.com/user-attachments/assets/36b5e597-e049-4b6e-9aa7-1b43b2aaebcf)
 
 
 

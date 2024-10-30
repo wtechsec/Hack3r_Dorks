@@ -20,25 +20,25 @@ Este script foi criado para realizar uma enumeração de informações públicas
 
 
 
-2. Verificação de Dependências: Confere se curl está instalado no sistema.
+1. Verificação de Dependências: Confere se curl está instalado no sistema.
 
 
-3. Configuração de Domínio e Arquivos: Recebe o domínio como entrada, cria uma pasta e arquivo de saída para armazenar resultados.
+2. Configuração de Domínio e Arquivos: Recebe o domínio como entrada, cria uma pasta e arquivo de saída para armazenar resultados.
 
 
-4. Uso de Proxies: Opção de usar proxies para mascarar o IP ao fazer requisições.
+3. Uso de Proxies: Opção de usar proxies para mascarar o IP ao fazer requisições.
 
 
-5. User-Agents Aleatórios: Alterna entre diferentes user-agents para evitar bloqueios.
+4. User-Agents Aleatórios: Alterna entre diferentes user-agents para evitar bloqueios.
 
 
-6. Função de Consulta Google Dorks: Realiza buscas com diversos parâmetros (Google Dorks) para coletar informações públicas sobre o domínio.
+5. Função de Consulta Google Dorks: Realiza buscas com diversos parâmetros (Google Dorks) para coletar informações públicas sobre o domínio.
 
 
-7. Lista Variada de Google Dorks: Inclui dorks focados em pentesting, como páginas de login, arquivos de configuração, documentos e backups.
+6. Lista Variada de Google Dorks: Inclui dorks focados em pentest, como páginas de login, arquivos de configuração, documentos e backups.
 
 
-8. Armazenamento de Resultados: Salva URLs relevantes em um arquivo de saída para fácil consulta.
+7. Armazenamento de Resultados: Salva URLs relevantes em um arquivo de saída para fácil consulta.
 
 
 

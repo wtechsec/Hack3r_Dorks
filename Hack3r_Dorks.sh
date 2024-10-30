@@ -59,9 +59,9 @@ if [[ "$proxy_choice" == "s" || "$proxy_choice" == "S" ]]; then
         proxies+=("$line")
     done < proxies.txt
 
-    # Verifica se há proxies disponíveis
+    # Verifica se há proxys disponíveis
     if [ ${#proxies[@]} -eq 0 ]; then
-        echo "Nenhum proxy encontrado no arquivo proxies.txt. O script será executado sem proxies."
+        echo "Nenhum proxy encontrado no arquivo proxy.txt. O script será executado sem proxies."
         use_proxy=""
     fi
 fi

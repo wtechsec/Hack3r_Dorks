@@ -16,9 +16,37 @@ Este script foi criado para realizar uma enumeração de informações públicas
 4. Crie o arquivo proxies.txt e insira quantos proxi quiser para mascarar seu ip e evitar bloqueio, insira os proxies no formato ip:porta
    EX:127.0.0.1:8000
 
-## 
+## Detalhes de versão.
 
-# By wtechsec
-# https://www.instagram.com/wtechsec
-# https://www.instagram.com/escola_hack3r
+
+
+2. Verificação de Dependências: Confere se curl está instalado no sistema.
+
+
+3. Configuração de Domínio e Arquivos: Recebe o domínio como entrada, cria uma pasta e arquivo de saída para armazenar resultados.
+
+
+4. Uso de Proxies: Opção de usar proxies para mascarar o IP ao fazer requisições.
+
+
+5. User-Agents Aleatórios: Alterna entre diferentes user-agents para evitar bloqueios.
+
+
+6. Função de Consulta Google Dorks: Realiza buscas com diversos parâmetros (Google Dorks) para coletar informações públicas sobre o domínio.
+
+
+7. Lista Variada de Google Dorks: Inclui dorks focados em pentesting, como páginas de login, arquivos de configuração, documentos e backups.
+
+
+8. Armazenamento de Resultados: Salva URLs relevantes em um arquivo de saída para fácil consulta.
+
+
+
+Essas características tornam o script eficiente para fazer enumeração de informações sobre um domínio, utilizando buscas otimizadas no Google.
+
+
+
+# By wtechsec - Escola_Hack3r
+## https://www.instagram.com/wtechsec
+## https://www.instagram.com/escola_hack3r
 

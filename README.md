@@ -8,7 +8,7 @@ Este script foi criado para realizar uma enumeração de informações públicas
 
 ## Como usar o script Hack3r_dorks
 
-1. git clone https://github.com/wtechsec/Parabellum-Dorks.git
+1. git clone https://github.com/wtechsec/Hack3r_Dorks.git
 2. cd hack3r-dork
 3. sudo perl Hack3r_Dorks.sh "site.com"
 ![image](https://github.com/user-attachments/assets/8f399654-67db-4614-b9df-7feed9c998d2)
